@@ -1,0 +1,14 @@
+{
+  "mc-collect": {
+    "path": "/mcollect/collect/publish/current/logs/",
+    "displayName": "MC Collect"
+  },
+  "mc-app": {
+    "path": "/mcollect/app/publish/current/logs/",
+    "displayName": "MC App"
+  },
+  "mc-integrations": {
+    "path": "/mcollect/integrations/publish/current/logs/",
+    "displayName": "MC Integrations"
+  }
+}
